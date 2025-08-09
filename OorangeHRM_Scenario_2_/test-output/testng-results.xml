@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-09T22:26:18 IST" name="Default suite" finished-at="2025-08-09T22:27:04 IST" duration-ms="45815">
+    <groups>
+    </groups>
+    <test started-at="2025-08-09T22:26:18 IST" name="Default test" finished-at="2025-08-09T22:27:04 IST" duration-ms="45815">
+      <class name="testCases.TC_03_searchforexistingEmployeeByRole">
+        <test-method is-config="true" signature="launch_Url()[pri:0, instance:testCases.TC_03_searchforexistingEmployeeByRole@2b40ff9c]" started-at="2025-08-09T22:26:18 IST" name="launch_Url" finished-at="2025-08-09T22:26:24 IST" duration-ms="5692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_Url -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC_03_searchforexistingEmployeeByRole@2b40ff9c]" started-at="2025-08-09T22:26:24 IST" name="setup" finished-at="2025-08-09T22:26:56 IST" duration-ms="32310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchByRole()[pri:0, instance:testCases.TC_03_searchforexistingEmployeeByRole@2b40ff9c]" started-at="2025-08-09T22:26:56 IST" name="searchByRole" finished-at="2025-08-09T22:27:04 IST" duration-ms="7693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchByRole -->
+      </class> <!-- testCases.TC_03_searchforexistingEmployeeByRole -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
